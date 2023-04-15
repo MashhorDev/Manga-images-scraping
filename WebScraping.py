@@ -11,7 +11,15 @@ the Manga name the same way it appears in the URL
 
 
 '''
-print("------------------- Web Scraping By MashhorDev @Eiitp -------------------")
+print("######################################################################")
+print("#                                                                    #")
+print("#                        Manga Downloader                            #")
+print("#                        By MashhorDev @0HAK                         #")
+print("#                                                                    #")
+print("#    NOTE!: Keep in mind that you have to write                      #")
+print("#           the Manga name the same way it appears in the URL        #")
+print("#                                                                    #")
+print("######################################################################")
 
 #input Manga as String , Chapter as Integer
 
